@@ -71,6 +71,8 @@ Os exemplos acima são instruções de edição e não aparecem no site. A lista
 ## Créditos
 
 - Logo e retrato: materiais fornecidos pela cliente.
+- Imagem de arquitetura: extraída do panfleto fornecido pela cliente.
+- Foto ilustrativa de escuta e documentos: [Mikhail Nilov / Pexels](https://www.pexels.com/photo/two-women-reading-a-document-in-the-office-8101499/).
 - Foto ilustrativa de treinamento: [fauxels / Pexels](https://www.pexels.com/photo/group-of-people-gathered-around-wooden-table-3184360/).
 - Foto ilustrativa de reunião estratégica: [Mikhail Nilov / Pexels](https://www.pexels.com/photo/a-group-of-people-having-a-meeting-in-the-office-6592746/).
 - Fotos de stock sob [licença Pexels](https://www.pexels.com/license/); não representam clientes ou integrantes do Instituto.
@@ -78,4 +80,8 @@ Os exemplos acima são instruções de edição e não aparecem no site. A lista
 
 ## Verificações
 
-A verificação de conteúdo cobre as cinco páginas, 315 trechos da copy, 119 referências internas e 16 perguntas frequentes. Também foram verificados o menu, a navegação, os destinos dos CTAs, imagens e a apresentação em desktop e celular. Os resultados esperados, posicionamento e afirmações comerciais foram preservados conforme o texto enviado.
+A verificação de conteúdo cobre as cinco páginas, 315 trechos da copy, 127 referências internas e 16 perguntas frequentes. Também foram verificados o menu, a navegação, os destinos dos CTAs, imagens e a apresentação em desktop e celular. Os resultados esperados, posicionamento e afirmações comerciais foram preservados conforme o texto enviado.
+
+## Revisão visual
+
+A home inclui uma composição de arquitetura e retrato na hero, fotografia editorial no conceito, imagem de análise conjunta no método, quatro linhas de serviço com fotografia e um fechamento sobre arquitetura. Todas as fotografias de stock são ilustrativas. A copy e os destinos dos botões foram preservados.
