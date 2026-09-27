@@ -4,6 +4,10 @@ Site institucional com home e quatro páginas de serviço, seguindo a copy forne
 
 ## Visualizar e hospedar
 
+O site também é publicado no [GitHub Pages](https://zephcompany.github.io/bruna-vila-a/index.html). A cada envio para `main`, o workflow `.github/workflows/pages.yml` gera e verifica as cinco páginas, prepara os caminhos para `/bruna-vila-a/` e publica o `index.html`.
+
+Para preparar essa versão localmente, execute `node generate.mjs`, `node check.mjs` e `node prepare-pages.mjs`. A pasta `.pages` contém o resultado para GitHub Pages; `dist` continua disponível para hospedagens na raiz de um domínio.
+
 A pasta `dist` contém o site pronto. Sirva essa pasta com qualquer hospedagem estática que suporte `index.html` por diretório.
 
 Para abrir localmente, dentro desta pasta:
