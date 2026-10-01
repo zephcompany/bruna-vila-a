@@ -75,17 +75,19 @@ Os exemplos acima são instruções de edição e não aparecem no site. A lista
 ## Créditos
 
 - Logo e retrato: materiais fornecidos pela cliente.
-- Imagem de arquitetura: extraída do panfleto fornecido pela cliente.
-- Foto ilustrativa de escuta e documentos: [Mikhail Nilov / Pexels](https://www.pexels.com/photo/two-women-reading-a-document-in-the-office-8101499/).
-- Foto ilustrativa de treinamento: [fauxels / Pexels](https://www.pexels.com/photo/group-of-people-gathered-around-wooden-table-3184360/).
-- Foto ilustrativa de reunião estratégica: [Mikhail Nilov / Pexels](https://www.pexels.com/photo/a-group-of-people-having-a-meeting-in-the-office-6592746/).
-- Fotos de stock sob [licença Pexels](https://www.pexels.com/license/); não representam clientes ou integrantes do Instituto.
+- Fotografias reais obtidas no perfil público do [Instituto Bruna Vilaça](https://www.instagram.com/institutobrunavilaca/), conforme solicitação da cliente:
+  - `bruna-treinamento.jpg`: [treinamento corporativo](https://www.instagram.com/p/DV90VtnEaWK/).
+  - `bruna-encontro.jpg`: [encontro profissional no Instituto](https://www.instagram.com/p/DV10M5ykSFt/).
+  - `bruna-equipe.jpg`: [registro de treinamento e equipe](https://www.instagram.com/p/DUlf1mXkZfH/).
+- Ornamentos e cantoneiras vetoriais criados para a identidade do site. As fotografias são servidas localmente, sem dependência do Instagram.
 - [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond), [Manrope](https://fonts.google.com/specimen/Manrope) e [Pinyon Script](https://fonts.google.com/specimen/Pinyon+Script): Google Fonts, SIL Open Font License.
 
 ## Verificações
 
-A verificação de conteúdo cobre as cinco páginas, 315 trechos da copy, 127 referências internas e 16 perguntas frequentes. Também foram verificados o menu, a navegação, os destinos dos CTAs, imagens e a apresentação em desktop e celular. Os resultados esperados, posicionamento e afirmações comerciais foram preservados conforme o texto enviado.
+A verificação de conteúdo cobre as cinco páginas, 315 trechos da copy, 145 referências internas e 16 perguntas frequentes. Também foram verificados o menu, a navegação, os destinos dos CTAs, imagens e a apresentação em desktop e celular. Os resultados esperados, posicionamento e afirmações comerciais foram preservados conforme o texto enviado.
 
 ## Revisão visual
 
-A home inclui uma composição de arquitetura e retrato na hero, fotografia editorial no conceito, imagem de análise conjunta no método, quatro linhas de serviço com fotografia e um fechamento sobre arquitetura. Todas as fotografias de stock são ilustrativas. A copy e os destinos dos botões foram preservados.
+A revisão neoclássica aplica molduras douradas, cantoneiras com folhas, florões simétricos, textura ornamental discreta e fundos em marfim. As imagens ilustrativas foram substituídas por fotos reais de Bruna e do Instituto. A chamada final da home foi alterada, a pedido da cliente, para “O valor não é nada”.
+
+`dist/assets/neoclassical.css` reúne os estilos da revisão. O gerador preserva os demais textos e destinos dos botões.

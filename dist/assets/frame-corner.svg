@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 130" fill="none">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="130" y2="130" gradientUnits="userSpaceOnUse"><stop stop-color="#eed9a0"/><stop offset=".44" stop-color="#b8914b"/><stop offset=".7" stop-color="#e5c88c"/><stop offset="1" stop-color="#8b672d"/></linearGradient></defs>
+  <g stroke="url(#gold)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 116V11h105M16 99V16h83M21 82V21h61"/>
+    <path d="M18 72c14-7 19-19 19-34 15 0 27-5 35-20M26 72c13-3 25-16 26-31 15-1 28-13 31-26"/>
+    <path d="M37 38c-9-12-5-25 5-30 4 14 0 23-5 30ZM38 37c12 9 25 5 30-5-14-4-23 0-30 5ZM31 56c-12-6-13-19-7-26 8 8 10 15 7 26ZM56 31c6 12 19 13 26 7-8-8-15-10-26-7Z"/>
+    <path d="M21 87c11 0 20-5 24-14-13-1-20 4-24 14ZM87 21c0 11-5 20-14 24 1-13 4-20 14-24ZM44 64c8-1 15-8 16-16-9 1-15 7-16 16Z"/>
+    <path d="M20 109c12-5 21-12 28-23 7-12 18-20 28-17 9 2 12 10 8 16-4 6-12 5-13-1-1-4 2-7 5-6M109 20c-5 12-12 21-23 28-12 7-20 18-17 28"/>
+    <path d="M37 99c12-1 25-10 28-18-12 0-21 6-28 18ZM99 37c-1 12-10 25-18 28 0-12 6-21 18-28Z"/>
+  </g>
+  <path d="m9 9 5-5 5 5-5 5Z" fill="url(#gold)"/>
+</svg>
