@@ -75,10 +75,8 @@ Os exemplos acima são instruções de edição e não aparecem no site. A lista
 ## Créditos
 
 - Logo e retrato: materiais fornecidos pela cliente.
-- Fotografias reais obtidas no perfil público do [Instituto Bruna Vilaça](https://www.instagram.com/institutobrunavilaca/), conforme solicitação da cliente:
-  - `bruna-treinamento.jpg`: [treinamento corporativo](https://www.instagram.com/p/DV90VtnEaWK/).
-  - `bruna-encontro.jpg`: [encontro profissional no Instituto](https://www.instagram.com/p/DV10M5ykSFt/).
-  - `bruna-equipe.jpg`: [registro de treinamento e equipe](https://www.instagram.com/p/DUlf1mXkZfH/).
+- Fotografias em `dist/assets/fotos/` (33 imagens, `.webp`) enviadas pela cliente em outubro de 2026: ensaio no consultório, ambiente do Instituto, parede de certificações, livro *The Duetto Experience* e atendimento em loja de varejo premium. O mapeamento por seção fica em `generate.mjs` (`heroPhotos`, `painPhotos`, `services`, `authority`, `space`, `cases`).
+- As fotos anteriores do Instagram (`bruna-treinamento.jpg`, `bruna-encontro.jpg`, `bruna-equipe.jpg`) e o retrato `bruna-vilaca.webp` permanecem em `dist/assets` mas não são mais usadas nas páginas.
 - Ornamentos e cantoneiras vetoriais criados para a identidade do site. As fotografias são servidas localmente, sem dependência do Instagram.
 - [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond), [Manrope](https://fonts.google.com/specimen/Manrope) e [Pinyon Script](https://fonts.google.com/specimen/Pinyon+Script): Google Fonts, SIL Open Font License.
 
@@ -87,6 +85,8 @@ Os exemplos acima são instruções de edição e não aparecem no site. A lista
 A verificação de conteúdo cobre as cinco páginas, 315 trechos da copy, 145 referências internas e 16 perguntas frequentes. Também foram verificados o menu, a navegação, os destinos dos CTAs, imagens e a apresentação em desktop e celular. Os resultados esperados, posicionamento e afirmações comerciais foram preservados conforme o texto enviado.
 
 ## Revisão visual
+
+A home ganhou, em outubro de 2026, a seção **O Instituto · Maravilha-SC** (galeria do espaço), um mosaico de certificações abaixo da autoridade e fotos de atendimento em varejo premium na seção de resultados. As páginas de serviço têm uma foto no bloco **O cenário**. A frase do hero passou a ser “Gente & Gestão nunca foi custo. Sempre foi o ativo que sustenta o resultado.”
 
 A revisão neoclássica aplica molduras douradas, cantoneiras com folhas, florões simétricos, textura ornamental discreta e fundos em marfim. As imagens ilustrativas foram substituídas por fotos reais de Bruna e do Instituto. A chamada final da home foi alterada, a pedido da cliente, para “O valor não é nada”.
 
