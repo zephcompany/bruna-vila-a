@@ -1,0 +1,212 @@
+{
+"bruna-consultorio--hero": {
+"w": 870,
+"h": 1088,
+"fy": 26
+},
+"varejo-03--hero": {
+"w": 870,
+"h": 1087,
+"fy": 30
+},
+"varejo-02--hero": {
+"w": 870,
+"h": 1087,
+"fy": 30
+},
+"varejo-01--hero": {
+"w": 870,
+"h": 1087,
+"fy": 30
+},
+"bruna-logo-01--hero": {
+"w": 870,
+"h": 1088,
+"fy": 30
+},
+"varejo-02--pain": {
+"w": 870,
+"h": 956,
+"fy": 30
+},
+"varejo-anotacoes--pain": {
+"w": 870,
+"h": 956,
+"fy": 30
+},
+"varejo-04--pain": {
+"w": 870,
+"h": 956,
+"fy": 30
+},
+"bruna-leitura-02--pain": {
+"w": 870,
+"h": 956,
+"fy": 30
+},
+"bruna-leitura-01--concept": {
+"w": 870,
+"h": 1160,
+"fy": 29
+},
+"varejo-anotacoes--method": {
+"w": 870,
+"h": 490,
+"fy": 30
+},
+"varejo-04--audience": {
+"w": 870,
+"h": 600,
+"fy": 30
+},
+"bruna-logo-02--audience": {
+"w": 870,
+"h": 600,
+"fy": 30
+},
+"varejo-03--service": {
+"w": 870,
+"h": 580,
+"fy": 30
+},
+"varejo-02--service": {
+"w": 870,
+"h": 580,
+"fy": 30
+},
+"varejo-01--service": {
+"w": 870,
+"h": 580,
+"fy": 30
+},
+"bruna-cafe-01--service": {
+"w": 870,
+"h": 580,
+"fy": 30
+},
+"bruna-logo-01--authority": {
+"w": 870,
+"h": 1088,
+"fy": 30
+},
+"certificados-parede--wall": {
+"w": 1548,
+"h": 870,
+"fy": 30
+},
+"certificado-engenharia-equipes--cert": {
+"w": 870,
+"h": 870,
+"fy": 30
+},
+"certificados-03--cert": {
+"w": 870,
+"h": 870,
+"fy": 30
+},
+"certificados-02--cert": {
+"w": 870,
+"h": 870,
+"fy": 30
+},
+"certificados-01--cert": {
+"w": 870,
+"h": 870,
+"fy": 30
+},
+"varejo-04--case": {
+"w": 870,
+"h": 1000,
+"fy": 30
+},
+"varejo-03--case": {
+"w": 870,
+"h": 1000,
+"fy": 30
+},
+"livro-duetto--case": {
+"w": 870,
+"h": 1000,
+"fy": 30
+},
+"espaco-sofa--wide": {
+"w": 1548,
+"h": 573,
+"fy": 30
+},
+"bruna-cafe-03--tall": {
+"w": 870,
+"h": 1359,
+"fy": 30
+},
+"espaco-orquidea--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-cafe-01--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-quadro-01--tall": {
+"w": 870,
+"h": 1359,
+"fy": 30
+},
+"logo-parede--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"bruna-cafe-02--tall": {
+"w": 870,
+"h": 1359,
+"fy": 30
+},
+"espaco-poltrona--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-quadro-02--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-bar-01--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-mesa--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-espelho--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-cafe-02--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"logo-detalhe--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-cafe-03--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+},
+"espaco-bar-02--tile": {
+"w": 870,
+"h": 654,
+"fy": 30
+}
+}
