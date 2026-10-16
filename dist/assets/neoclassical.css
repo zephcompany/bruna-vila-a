@@ -190,3 +190,7 @@ body{background:var(--cream)}
 .pain-photo{max-width:none;margin-top:28px}
 }
 @media(max-width:760px){.certificates-wall figcaption{padding:40px 16px 14px}.certificates-wall figcaption .signature{font-size:2rem}.certificates-wall figcaption>span:last-child{display:none}}
+.footer-social{margin-top:22px;display:flex;flex-direction:column;gap:10px}
+.footer-social a{display:inline-flex;align-items:center;gap:10px;font-size:.85rem;color:#d6c5b9;transition:color .25s}
+.footer-social a:hover{color:var(--gold)}
+.footer-social svg{width:18px;height:18px;color:var(--gold)}

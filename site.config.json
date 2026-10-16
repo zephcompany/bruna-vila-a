@@ -1,5 +1,10 @@
 {
-  "whatsapp": "5549999665854",
+  "whatsappInstituto": "554999665854",
+  "whatsappInstitutoDisplay": "(49) 99966-5854",
+  "whatsappBruna": "5531993656921",
+  "whatsappBrunaDisplay": "(31) 99365-6921",
+  "instagramInstituto": "https://www.instagram.com/institutobrunavilaca/",
+  "instagramBruna": "https://www.instagram.com/psi.brunavillaca/",
   "heroImage": "/assets/bruna-vilaca.webp",
   "cases": []
 }

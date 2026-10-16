@@ -46,7 +46,7 @@ A foto atual foi fornecida pela cliente. No desktop, fica à direita; no celular
 
 ## WhatsApp
 
-Todos os botões comerciais usam **+55 (49) 99966-5854**, extraído do panfleto. Cada serviço tem uma mensagem específica pré-preenchida. O visitante confirma e envia a mensagem no WhatsApp; o site não envia mensagens automaticamente.
+Os botões de **Treinamento In Company** e **Mentoria** falam com a Bruna no número pessoal **+55 (31) 99365-6921**; os da home, **Consultoria** e **R&S + NR-1** falam com o Instituto, **+55 (49) 99966-5854** (registrado no WhatsApp sem o nono dígito, como no link oficial wa.me/message/Y6B2KJXDEZ4KJ1). Os números e os Instagrams ficam em `site.config.json`. Cada serviço tem uma mensagem específica pré-preenchida. O visitante confirma e envia a mensagem no WhatsApp; o site não envia mensagens automaticamente.
 
 ## Cases e certificações
 
