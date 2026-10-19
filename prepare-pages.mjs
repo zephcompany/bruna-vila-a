@@ -23,7 +23,7 @@ for (const file of files) {
   if (!/\.(html|css)$/.test(file)) continue;
   let text = fs.readFileSync(file, 'utf8');
   if (file.endsWith('.html')) {
-    text = text.replace(/\b(href|src)="\/(?!\/)/g, `$1="${basePath}/`);
+    text = text.replace(/\b(href|src|poster|data-video|data-poster)="\/(?!\/)/g, `$1="${basePath}/`);
   } else {
     text = text.replace(/url\((['"]?)\/(?!\/)/g, `url($1${basePath}/`);
   }
@@ -36,7 +36,7 @@ let checked = 0;
 for (const file of files.filter(file => /\.(html|css)$/.test(file))) {
   const text = fs.readFileSync(file, 'utf8');
   const references = file.endsWith('.html')
-    ? [...text.matchAll(/(?:href|src)="([^"]+)"/g)].map(match => match[1])
+    ? [...text.matchAll(/(?:href|src|poster|data-video|data-poster)="([^"]+)"/g)].map(match => match[1])
     : [...text.matchAll(/url\(['"]?([^'"\s)]+)['"]?\)/g)].map(match => match[1]);
   const current = new URL(`${basePath}/${path.relative(output, file)}`, 'https://pages.local');
   for (const reference of references) {
